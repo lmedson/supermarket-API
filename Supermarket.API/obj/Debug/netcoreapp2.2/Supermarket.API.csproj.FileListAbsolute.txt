@@ -1,0 +1,14 @@
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.deps.json
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.runtimeconfig.json
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.runtimeconfig.dev.json
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.dll
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.pdb
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.csprojAssemblyReference.cache
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.csproj.CoreCompileInputs.cache
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.RazorAssemblyInfo.cache
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.RazorAssemblyInfo.cs
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.AssemblyInfoInputs.cache
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.AssemblyInfo.cs
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.RazorTargetAssemblyInfo.cache
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.dll
+/home/geronimo/workspace/d3/estudos/dotnet/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.pdb
